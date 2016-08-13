@@ -9,4 +9,4 @@
 
 Simple Java Application. 
 
-[OT](http://sqasolution.com)
+[OT](https://github.com/olgaviol4ik)
