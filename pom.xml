@@ -8,8 +8,8 @@
 	<description>Basic Project Structure</description>
 	<dependencies>
 		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
+			<groupId>testng</groupId>
+			<artifactId>testng</artifactId>
 			<version>4.12</version>
 		</dependency>
 	</dependencies>
