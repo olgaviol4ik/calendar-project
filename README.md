@@ -1,13 +1,13 @@
 
-#ABasic Java Project
+#Calendar Project
 
-*Basic Java Project*
+*Calendar Project*
 
 **Java 7**
 * Maven
 * JUnit
 
 
-Basic Java Project. 
+Calendar Project. 
 
 [OT](https://github.com/olgaviol4ik)
