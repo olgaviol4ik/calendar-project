@@ -1,18 +1,13 @@
 
-#Automation Project
+#ABasic Java Project
 
-*Project for automation tests using TestNG and Selenium*
+*Basic Java Project*
 
 **Java 7**
-
-* Selenium WebDriver
 * Maven
-* TestNG
-* Log4j
-* JDBS
-* SQL
-* CVS/ test
+* JUnit
 
-Automation Project. 
+
+Basic Java Project. 
 
 [OT](https://github.com/olgaviol4ik)
